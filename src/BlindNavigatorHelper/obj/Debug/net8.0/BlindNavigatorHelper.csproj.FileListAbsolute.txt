@@ -186,3 +186,4 @@ C:\Users\COLLABERA.DIGITAL\Desktop\BlindHelper\src\BlindNavigatorHelper\obj\Debu
 C:\Users\COLLABERA.DIGITAL\Desktop\BlindHelper\src\BlindNavigatorHelper\obj\Debug\net8.0\BlindNav.EE126335.Up2Date
 C:\Users\COLLABERA.DIGITAL\Desktop\BlindHelper\src\BlindNavigatorHelper\obj\Debug\net8.0\BlindNavigatorHelper.genruntimeconfig.cache
 C:\Users\COLLABERA.DIGITAL\Desktop\BlindHelper\src\BlindNavigatorHelper\obj\Debug\net8.0\ref\BlindNavigatorHelper.dll
+C:\Users\COLLABERA.DIGITAL\Desktop\BlindHelper\src\BlindNavigatorHelper\obj\Debug\net8.0\BlindNavigatorHelper.sourcelink.json
