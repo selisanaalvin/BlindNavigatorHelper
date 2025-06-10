@@ -6,12 +6,10 @@
 
 - Mouse Hover AssistanceProvides real-time details about the location of the mouse cursor.
 
-  Example: "Mouse at: x=150, y=300, on element: Submit Button."
+- Click Feedback Speaks out the name or description of the element clicked.
 
-- Click FeedbackSpeaks out the name or description of the element clicked.
+- Keypress Feedback Speaks out the key pressed for instant feedback.
 
-Example: "Clicked on: Login Button."
-
-- Keypress FeedbackSpeaks out the key pressed for instant feedback.
-
-Example: "Key pressed: Enter."
+**Notes**
+  - install .Net 8
+  - Give the application to have access allowing for your computer to talk.
