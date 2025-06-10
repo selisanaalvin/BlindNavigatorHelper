@@ -3,48 +3,48 @@
   "WorkspaceRootPath": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\BlindHelper\\src\\BlindNavigatorHelper\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\blindnavigatorhelper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|solutionrelative:blindnavigatorhelper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:viewmodels\\mainwindowviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|solutionrelative:views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\helpers\\mousedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|solutionrelative:helpers\\mousedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\helpers\\globalmousehook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|solutionrelative:helpers\\globalmousehook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|solutionrelative:app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\helpers\\keyboarddetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|solutionrelative:helpers\\keyboarddetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\helpers\\globalmousehook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:helpers\\globalmousehook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|solutionrelative:viewmodels\\viewmodelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\helpers\\keyboarddetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:helpers\\keyboarddetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|solutionrelative:views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\helpers\\mousedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:helpers\\mousedetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|CLIENT.csproj|solutionrelative:app.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|c:\\users\\collabera.digital\\desktop\\blindhelper\\src\\blindnavigatorhelper\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D338CBB3-4BFE-4715-B8EA-0B971B7FF790}|BlindNavigatorHelper.csproj|solutionrelative:.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
@@ -70,7 +70,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 3,
               "Title": "MouseDetector.cs",
               "DocumentMoniker": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\BlindHelper\\src\\BlindNavigatorHelper\\Helpers\\MouseDetector.cs",
               "RelativeDocumentMoniker": "Helpers\\MouseDetector.cs",
@@ -82,8 +82,8 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "CLIENT.csproj",
+              "DocumentIndex": 1,
+              "Title": "BlindNavigatorHelper.csproj",
               "DocumentMoniker": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\BlindHelper\\src\\BlindNavigatorHelper\\BlindNavigatorHelper.csproj",
               "RelativeDocumentMoniker": "BlindNavigatorHelper.csproj",
               "ToolTip": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\BlindHelper\\src\\BlindNavigatorHelper\\BlindNavigatorHelper.csproj",
@@ -95,7 +95,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 4,
               "Title": "GlobalMouseHook.cs",
               "DocumentMoniker": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\BlindHelper\\src\\BlindNavigatorHelper\\Helpers\\GlobalMouseHook.cs",
               "RelativeDocumentMoniker": "Helpers\\GlobalMouseHook.cs",
@@ -107,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\BlindHelper\\src\\BlindNavigatorHelper\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -119,7 +119,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 6,
               "Title": "App.axaml.cs",
               "DocumentMoniker": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\BlindHelper\\src\\BlindNavigatorHelper\\App.axaml.cs",
               "RelativeDocumentMoniker": "App.axaml.cs",
@@ -131,7 +131,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "KeyboardDetector.cs",
               "DocumentMoniker": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\BlindHelper\\src\\BlindNavigatorHelper\\Helpers\\KeyboardDetector.cs",
               "RelativeDocumentMoniker": "Helpers\\KeyboardDetector.cs",
@@ -143,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ViewModelBase.cs",
               "DocumentMoniker": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\BlindHelper\\src\\BlindNavigatorHelper\\ViewModels\\ViewModelBase.cs",
               "RelativeDocumentMoniker": "ViewModels\\ViewModelBase.cs",
@@ -155,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "MainWindow.axaml.cs",
               "DocumentMoniker": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\BlindHelper\\src\\BlindNavigatorHelper\\Views\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "Views\\MainWindow.axaml.cs",
@@ -167,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\BlindHelper\\src\\BlindNavigatorHelper\\.env",
               "RelativeDocumentMoniker": ".env",
@@ -179,13 +179,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MainWindowViewModel.cs",
               "DocumentMoniker": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\BlindHelper\\src\\BlindNavigatorHelper\\ViewModels\\MainWindowViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\MainWindowViewModel.cs",
               "ToolTip": "C:\\Users\\COLLABERA.DIGITAL\\Desktop\\BlindHelper\\src\\BlindNavigatorHelper\\ViewModels\\MainWindowViewModel.cs",
               "RelativeToolTip": "ViewModels\\MainWindowViewModel.cs",
-              "ViewState": "AgIAAGEAAAAAAAAAAAAtwHEAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T17:33:12.038Z",
               "EditorCaption": ""

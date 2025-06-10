@@ -42,7 +42,7 @@ namespace CLIENT.ViewModels
                 string windowInfo = WindowDetector.GetActiveWindowInfo();
                 _synth.SpeakAsyncCancelAll();
                 _synth.SpeakAsync($"You pressed {key}");
-                AppendMessageToLogAsync($"[{timestamp}] : {key}, {windowInfo}");
+                AppendMessageToLogAsync($"[{timestamp}] : Key: {key}, {windowInfo}");
             };
             KeyboardDetector.Start();
 
