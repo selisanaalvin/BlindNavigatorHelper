@@ -1,0 +1,94 @@
+[2025-06-10 14:48:20] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 14:48:28] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:29] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:30] : Ctrl, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:31] : Ctrl + A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:32] : NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:33] : NumPad2, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:33] : NumPad7, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:34] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:34] : NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:34] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:35] : NumPad0, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:35] : Decimal, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:35] : NumPad1, App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:44] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:48:52] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:00] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:01] : A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:01] : S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] : A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] : S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] : A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:02] : S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:03] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:04] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:04] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:05] : A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] : S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:06] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:07] : A, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:07] : S, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:07] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:12] : Clicked: App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:14] : LeftWindows, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:14] : D, App: ADMIN, Title: ADMIN
+[2025-06-10 14:49:16] : Clicked: App: explorer, Title: Program Manager
+[2025-06-10 14:49:16] : Clicked: App: explorer, Title: Program Manager
+[2025-06-10 14:49:17] : Clicked: App: explorer, Title: Trojan - File Explorer
+[2025-06-10 14:49:17] : Clicked: App: explorer, Title: Trojan - File Explorer
+[2025-06-10 14:49:19] : Clicked: App: explorer, Title: src - File Explorer
+[2025-06-10 14:49:20] : DownArrow, App: explorer, Title: src - File Explorer
+[2025-06-10 14:49:20] : Enter, App: explorer, Title: src - File Explorer
+[2025-06-10 14:49:21] : Clicked: App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:22] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:22] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:22] : UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:23] : UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:24] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:24] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:24] : UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:25] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:26] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:26] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:26] : UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:26] : UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:27] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:27] : UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:27] : UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:28] : UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:28] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:28] : UpArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:29] : DownArrow, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:29] : Enter, App: explorer, Title: CLIENT - File Explorer
+[2025-06-10 14:49:30] : DownArrow, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:31] : UpArrow, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:31] : DownArrow, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:32] : UpArrow, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:32] : Enter, App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:32] : DownArrow, App: explorer, Title: Debug - File Explorer
+[2025-06-10 14:49:33] : Enter, App: explorer, Title: Debug - File Explorer
+[2025-06-10 14:49:33] : DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:34] : DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:34] : DownArrow, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:34] : Enter, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:36] : Backspace, App: explorer, Title: file_downloaded - File Explorer
+[2025-06-10 14:49:36] : Backspace, App: explorer, Title: net8.0 - File Explorer
+[2025-06-10 14:49:37] : Backspace, App: explorer, Title: Debug - File Explorer
+[2025-06-10 14:49:39] : Clicked: App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:40] : Clicked: App: explorer, Title: bin - File Explorer
+[2025-06-10 14:49:43] : Clicked: App: CLIENT, Title: WindowDefenderV1
+[2025-06-10 14:49:46] : Clicked: App: chrome, Title: Ralph Waldo Candaza - alvin.selisana@citysavings.com.ph - City Savings Bank, Inc. Mail - Google Chrome
+[2025-06-10 14:49:50] : Clicked: App: devenv, Title: ADMIN (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:23] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:29] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:31] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:37] : Clicked: App: chrome, Title: Ralph Waldo Candaza - alvin.selisana@citysavings.com.ph - City Savings Bank, Inc. Mail - Google Chrome
+[2025-06-10 14:54:38] : Clicked: App: devenv, Title: CLIENT (Running) - Microsoft Visual Studio
+[2025-06-10 14:54:39] : Clicked: App: devenv, Title: Microsoft Visual Studio
+[2025-06-10 14:56:06] : Clicked: App: BlindNavigatorHelper, Title: WindowDefenderV1

@@ -1,8 +1,8 @@
-C:\Users\COLLABERA.DIGITAL\Desktop\RAT\BlindNavigatorHelper.exe
+C:\Users\COLLABERA.DIGITAL\Desktop\RAT\CLIENT.exe
 C:\Users\COLLABERA.DIGITAL\Desktop\RAT\.env
-C:\Users\COLLABERA.DIGITAL\Desktop\RAT\BlindNavigatorHelper.dll
-C:\Users\COLLABERA.DIGITAL\Desktop\RAT\BlindNavigatorHelper.runtimeconfig.json
-C:\Users\COLLABERA.DIGITAL\Desktop\RAT\BlindNavigatorHelper.pdb
+C:\Users\COLLABERA.DIGITAL\Desktop\RAT\CLIENT.dll
+C:\Users\COLLABERA.DIGITAL\Desktop\RAT\CLIENT.runtimeconfig.json
+C:\Users\COLLABERA.DIGITAL\Desktop\RAT\CLIENT.pdb
 C:\Users\COLLABERA.DIGITAL\Desktop\RAT\Avalonia.Base.dll
 C:\Users\COLLABERA.DIGITAL\Desktop\RAT\Avalonia.Controls.dll
 C:\Users\COLLABERA.DIGITAL\Desktop\RAT\Avalonia.DesignerSupport.dll
@@ -168,4 +168,4 @@ C:\Users\COLLABERA.DIGITAL\Desktop\RAT\runtimes\win\lib\net8.0\System.Speech.dll
 C:\Users\COLLABERA.DIGITAL\Desktop\RAT\runtimes\win\lib\net8.0\System.Text.Encoding.CodePages.dll
 C:\Users\COLLABERA.DIGITAL\Desktop\RAT\runtimes\win\lib\net8.0\System.Threading.AccessControl.dll
 C:\Users\COLLABERA.DIGITAL\Desktop\RAT\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
-C:\Users\COLLABERA.DIGITAL\Desktop\RAT\BlindNavigatorHelper.deps.json
+C:\Users\COLLABERA.DIGITAL\Desktop\RAT\CLIENT.deps.json
